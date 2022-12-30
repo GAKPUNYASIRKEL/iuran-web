@@ -70,8 +70,3 @@ AOS.init()
       </div>
     </main>
   </template>
-  
-  <script>
-
-  </script>
-  
