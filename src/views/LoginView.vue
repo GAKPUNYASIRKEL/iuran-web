@@ -8,11 +8,11 @@ AOS.init()
 <template>
     <main class="px-6 text-white bg-gray-800 py-32">
       <div class="justify-center xl:px-40 xl:flex login-wrapper">
-        <div data-aos="fade-right" data-aos-delay="700" class="mb-8 xl:w-3/4 login-splash xl:mb-0">
+        <div data-aos="fade-right" data-aos-delay="500" class="mb-8 xl:w-3/4 login-splash xl:mb-0">
           <h2 class="mb-6 text-2xl font-semibold text-center xl:text-left login-splash-title xl:text-3xl xl:font-bold">Selamat datang di halaman login!</h2>
           <img src="../assets/login.svg" alt="Login Splash Images" class="xl:w-2/4 login-splash-img" />
         </div>
-        <div data-aos="fade-left" data-aos-delay="1500" class="xl:w-1/4 login-form">
+        <div data-aos="fade-left" data-aos-delay="1000" class="xl:w-1/4 login-form">
           <h2 class="text-2xl font-semibold text-center xl:text-left xl:text-3xl xl:login-title xl:font-bold">Login</h2>
           <h4 class="text-center login-sub xl:text-left">Mohon login terlebih dahulu!</h4>
           <form action="" method="post" class="my-8 form-login">

@@ -5,7 +5,7 @@ import FooterVue from "./components/Footer.vue"
 </script>
 
 <template>
-  <BarNavigasi-Vue></BarNavigasi-Vue>
+  <BarNavigasi-Vue />
   <RouterView />
-  <footer-vue></footer-vue>
+  <footer-vue />
 </template>
