@@ -11,6 +11,6 @@ export default {
 <template>
   <footer class="mx-auto py-2 text-center text-white bg-slate-700 xl:mb-0 footer">
     <span class="copyright">Copyright {{ dateNow }} ©️. All Right Reserved.</span> <br>
-    <span>v1.0.0 Made by <a>syamil</a>.</span>
+    <span>v1.0.0 Made by <a>teknik komputer</a>.</span>
   </footer>
 </template>
