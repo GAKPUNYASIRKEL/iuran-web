@@ -26,11 +26,6 @@ AOS.init()
             Iuran web adalah Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum aperiam itaque eum vitae reprehenderit nihil tempore modi, vero dolores cum facere ea assumenda, in quasi dicta ex aut voluptatem omnis. Consequatur veritatis culpa atque impedit.
           </article>
         </div>
-        <div data-aos="fade-down" data-aos-delay="200" class="rightAbout order-1 md:order-2">
-          <div class=" max-w-sm w-full duration-300 image hover:animate-spin">
-            <img src="@/assets/mau-mati-kapan-lu.gif" alt="bryn" />
-          </div>
-        </div>
       </div>
     </div>
   </body>
