@@ -26,6 +26,11 @@ AOS.init()
             Iuran web adalah Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum aperiam itaque eum vitae reprehenderit nihil tempore modi, vero dolores cum facere ea assumenda, in quasi dicta ex aut voluptatem omnis. Consequatur veritatis culpa atque impedit.
           </article>
         </div>
+        <div data-aos="fade-down" data-aos-delay="200" class="rightAbout">
+        <div class="image">
+          <img src="../assets/saya.jpg" alt="bryn" />
+        </div>
+      </div>
       </div>
     </div>
   </body>

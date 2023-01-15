@@ -19,7 +19,7 @@ onMounted(() => {
   <nav  data-aos="fade-down" data-aos-delay="100" class="w-full bg-slate-900 p-4 py-2 pb-3 items-center flex justify-between box-border relative px-2 uppercase z-40 text-sm font-semibold fixed top-0 left-0 md:p-2 md:py-5">
     <div class="left cursor-pointer items-center gap-4 flex px-2">
       <EyesLooking />
-      <h1 class="hidden md:block md:text-white">Nama App</h1>
+      <h1 class="hidden md:block md:text-white">iuran perumahan web</h1>
     </div>
     <div class="tampilkanmenu"></div>
     <div class="right">
@@ -27,7 +27,7 @@ onMounted(() => {
         <li class="block px-1 lg:px-4 py-3 text-white  hover:text-cyan-700 lg:hover:border-b-4 border-cyan-700 duration-150 md:p-0"><RouterLink to="/">Home</RouterLink></li>
         <li class="block px-1 lg:px-4 py-3 text-white  hover:text-cyan-700 lg:hover:border-b-4 border-cyan-700 duration-150 md:p-0"><RouterLink to="/tabel">Tabel</RouterLink></li>
         <li class="block px-1 lg:px-4 py-3 text-white  hover:text-cyan-700 lg:hover:border-b-4 border-cyan-700 duration-150 md:p-0"><RouterLink to="/login">Login</RouterLink></li>
-        <li class="block px-1 lg:px-4 py-3 text-white  hover:text-cyan-700 lg:hover:border-b-4 border-cyan-700 duration-150 md:p-0"><RouterLink to="/daftar">Daftar</RouterLink></li>
+        <li class="block px-1 lg:px-4 py-3 text-white  hover:text-cyan-700 lg:hover:border-b-4 border-cyan-700 duration-150 md:p-0"><RouterLink to="/crud sementara">Daftar</RouterLink></li>
       </ul>
     </div>
     <div class="hamburger w-12 h-12 flex flex-col gap-2 justify-center items-center scale-75 translate-x-px md:hidden">
